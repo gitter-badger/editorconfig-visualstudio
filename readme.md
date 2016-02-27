@@ -1,5 +1,7 @@
 # EditorConfig Visual Studio Plugin
 
+[![Join the chat at https://gitter.im/Mpdreamz/editorconfig-visualstudio](https://badges.gitter.im/Mpdreamz/editorconfig-visualstudio.svg)](https://gitter.im/Mpdreamz/editorconfig-visualstudio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This plugin causes Visual Studio to load it's indentation options from a standard `.editorconfig` settings file. See the [project web site](http://editorconfig.org) for more information.
 
 ## Installing
